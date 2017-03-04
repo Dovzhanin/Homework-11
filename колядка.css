@@ -1,0 +1,18 @@
+div {
+  background-color: #ffffff;
+opacity: 0.6;
+filter: alpha(opacity=60);
+font-family: 'Lobster', cursive;
+margin: 40px auto;
+width: 550px;
+border-radius: 10px;
+padding: 20px;
+}
+body {
+  background: url("/home/veronika/Документи/Домашні завдання.html/background2.jpg");
+  background-size: cover;
+}
+span {
+  font-weight: bold;
+  padding-left: 150px;
+}
